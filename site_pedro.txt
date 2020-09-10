@@ -1,0 +1,55 @@
+<html>
+	<head>
+
+		<title>Programação web Pedro Rafael</title>
+		
+
+	</head>
+
+	<body background="https://beauchampart.files.wordpress.com/2016/02/rgb-master-small-gif.gif">
+		<hr />
+			<h1 align="center">
+				Programação web 
+				<br />Pedro Rafael
+			</h1>
+		<hr />
+		
+		<h2 align="center"> bojack horseman acordando na quarentena: </h2>
+		
+		<h1 align="center">
+			<img src="https://media1.giphy.com/media/l0D7e9yRsTeBYKfBu/giphy.gif"/>
+		</h1>		
+			<br />
+		
+		<hr />
+			<p align="justify"><font color="#FFFFFF"><B>Ola meu nome e Pedro Rafael, tenho 19 anos e estou cursando o quarto semestre de ciencia da computação, nesse semestre estou aprendendo a construir sites com um professor bunitão chamado Aderbal Botelho Leite Neto, ele desenvolveu um site chamado <a href="https://www.educatux.com.br/"target="_blank"title="EducatuX">EducatuX</a>, com o intuito de ajudar todas as pessoas a estudarem de uma forma melhor. Acessa la mo show!</em></font></p>
+		<hr />
+			<br />
+		
+		<h3 align="center">
+			<font color="#FFFFFF"><em>galera se alguem precisar ou se interessar segue o lick para estudar a criação de um site:</em></font>
+				<br />
+			<font color="#FFFFFF"><a href="https://dev.educatux.com.br/uniceub/desenvolvimentoweb/-/blob/master/AulaInicialHTML0.pdf"target="_blank"title=" AulaInicialHTML0">HTMLO</a>;</font>
+				<br />
+			<font color="#FFFFFF"><a href="https://dev.educatux.com.br/uniceub/desenvolvimentoweb/-/blob/master/AulaInicialHTML1.pdf"target="_blank"title=" AulaInicialHTML1">HTML1</a>;</font>
+				<br />
+				<br />
+		</h3>
+		
+		<h2 align="center">
+			<font color="#FFFFFF"><em> Obrigado pelo acesso </em></font>
+		</h2>
+		
+		<h5 align="center">
+			<font color="#FFFFFF"><em> Obrigado professor <a href="https://github.com/aderbalbotelho"target="_blank"title=" aderbalbotelho">Aderbal Botelho</a></em></font>
+		</h5>
+			<br />
+			<br />
+		
+		<h6 align="right">
+			<font color="#FFFFFF"><i><sub>Mandando aquele Salve so porque estou iniando o meu primeiro site</sub></i></font>
+		</h6>
+	</body>
+
+
+</html>
